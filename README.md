@@ -1,6 +1,6 @@
-# KWELI: ADAF SSI Anchor Implementation
+# Kweli: Implementation of the ADAF Self-sovereign Identity Standard
 
-The core instance of Kweli is an exchange for verifiable credentials required by the AU Movement Protocol. Kweli will provide a public registry that will define schemas for credentials	 issued	 by	 the	 African Union Trade Council to organizations and companies in member states to be used for transactions within signatories of the African Continental Free Trade Agreement. Kweli’s registry shall be served	on a platform which	creates	a network of verified organizations	enabling trusted business transactions, supporting trade	between	parties	in different jurisdictions in the AfCFTA block.
+The core instance of Kweli is an exchange for verifiable credentials required by the AU Movement Protocol. Kweli will provide a public registry that will define schemas for credentials issued by the African Union Trade Council to organizations and companies in member states to be used for transactions within signatories of the African Continental Free Trade Agreement. Kweli’s registry shall be served	on a platform which	creates	a network of verified organizations	enabling trusted business transactions, supporting trade	between	parties	in different jurisdictions in the AfCFTA block.
 
 ## Contents of the	Kweli registry
 
