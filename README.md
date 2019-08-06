@@ -4,19 +4,19 @@ The core instance of Kweli is an exchange for verifiable credentials required by
 
 ## Contents of the	Kweli registry
 
-- -  Licensing schemas
+-  Licensing schemas
 
-- -  Business Registration schemas
+-  Business Registration schemas
 
-- -  Regulatory	Permits	schemas
+-  Regulatory Permits schemas
 
 ## Steps
 
-- 1.  User enrols on Kweli and their SSI credentials are stored	on their wallet.
+1.  User enrols on Kweli and their SSI credentials are stored on their wallet.
 
-- 2.  User requests the	AU Trade Council via Kweli for a new business registration.
+2.  User requests the AU Trade Council via Kweli for a new business registration.
 
-- 3.  A	new	business is registered and the corresponding documents sent	to user's Kweli account.
+3.  A new business is registered and the corresponding documents sent to user's Kweli account.
 
 ## Use	Case
 
@@ -30,17 +30,17 @@ However, Shiro’s hassles in	moving her cargo across	borders	within Africa are 
 
 Kweli eases the	process	that Shiro goes through	to register her	business and operate it	under the AfCFTA block. On a local instance of Kweli for her home-country	of Mozambique, Shiro enrols for	an SSI	backed user profile, which she can use to access instances of Kweli	deployed in	AU member states.	She	then accesses a	Kweli web portal through which she selects her preferred business instance and gets it registered. Once registered, the registration credentials for her business	are stored in her account. She uses these to request for licenses she may need as well as permits she would require to trade in the AfCFTA block.
 
-- 1.  Shiro	signs up on Kweli for a new user account.
+1.  Shiro	signs up on Kweli for a new user account.
 
-- 2.  Her Verinym DID is created and stored	on her Kweli interoperable wallet.
+2.  Her Verinym DID is created and stored	on her Kweli interoperable wallet.
 
-- 3.  Shiro selects	her business type from provided options on a Kweli instance	and proceeds to register her business. She receives	a business registration	certificate	to prove legal existence. This is	stored in a	new	Business Profile.
+3.  Shiro selects her business type from provided options on a Kweli instance	and proceeds to register her business. She receives	a business registration	certificate	to prove legal existence. This is	stored in a	new	Business Profile.
 
-- 4.  She applies for a	Fishing	license, Food Safety license and an	Export license,	which are stored	alongside the business registration	certificate	in her Business’ Profile.
+4.  She applies for a Fishing license, Food Safety license and an Export license, which are stored	alongside the business registration	certificate	in her Business’ Profile.
 
-- 5.  Shiro	requests for an	AfCFTA	Trade Permit on	Kweli.	This is	issued after qualification of having the prior documents (Business Certificate and Appropriate licenses).
+5.  Shiro requests for an AfCFTA Trade Permit on Kweli.	This is	issued after qualification of having the prior documents (Business Certificate and Appropriate licenses).
 
-- 6.  Shiro’s fish trading business	is finally legally registered and approved to transact within the Trade Area.
+6.  Shiro’s fish trading business is finally legally registered and approved to transact within the Trade Area.
 
-- 7.  If she needs to expand her business to another line of product, say importing	Gum arabic from South Sudan, she only needs to request for import licenses and related appropriate permits.
+7.  If she needs to expand her business to another line of product, say importing	Gum arabic from South Sudan, she only needs to request for import licenses and related appropriate permits.
 
