@@ -1,0 +1,67 @@
+{
+    "government_did": "did:sov:nhsiwmqoqj23",
+    "company_did": "did:sov:3U8HUen8WcgpbnEz1etnai",
+    "name_of_company": "Jollof and Sons",
+    "type_of_company": "limited by guarantee",
+    "date_of_incorporation": "2019-08-10",
+    "articles_of_association": "true",
+    "target_start_date": "2019-09-21",
+    "end_of_accounting_period": "March",
+    "number_of_employees_at_start": "28",
+    "address": {
+        "name_of_building": "Alhaji",
+        "nearby_road": "Heroes Street",
+        "district": "Ikeji Central",
+        "room_no": "19",
+        "town": "Warri",
+        "county_or_state": "Ibadan"
+    },
+    "contact_address": {
+        "postal_number": "20303",
+        "postal_code": "00100",
+        "office_number": "+263 278 1821",
+        "mobile_number": "+271 723 9872",
+        "email_address": "jollofandsons@naija.ng",
+        "directors_details": [
+            {
+                "fullname": "Senior Jollof",
+                "postal_address": "9202",
+                "postal_code": "00100",
+                "did": "did:sov:BuZUawgmw5zmeBbVZYxgPk",
+                "nationality": "Undefined",
+                "mobile_number": "+31 784 5646",
+                "email_address": "senior@jollof.ng",
+                "consent_as_director": "true"
+            },
+            {
+                "fullname": "Jollof Young",
+                "postal_address": "6512",
+                "postal_code": "00100",
+                "did": "did:sov:3U8HUen8WcgpbnEz1etnai",
+                "nationality": "Undefined",
+                "mobile_number": "+31 784 5646",
+                "email_address": "senior@jollof.ng",
+                "consent_as_director": "true"
+            }
+        ],
+        "primary_business": "fish farming",
+        "secondary_business": "oil processing",
+        "liability_of_members": "limited by shares",
+        "share_capital": "100000",
+        "capital_structure": {
+            "class_of_shares": "Preferential",
+            "number_of_shares": "9000",
+            "nominal_value_of_shares": "10",
+            "total_nominal_value": "900000"
+        },
+        "paid_up_capital": "550",
+        "unpaid_capital": "1000",
+        "company_ownership_structure": {
+            "is_subsidiary": "false",
+            "holding_company": "false",
+            "holding_company_pin": "false",
+            "holding_company_country": "false"
+        },
+        "details_of_acquisition": "none"
+    }
+}
