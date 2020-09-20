@@ -4,8 +4,8 @@ Kweli is a technical framework on how decentralized identity for Africans can wo
 
 ## Content
 
--  Licensing schemas
+* [White Paper](https://github.com/AfricanDigitalAssetFramework/kweli/blob/master/docs/Kweli%20-%20Pan-African%20Self-Sovereign%20Identity.pdf)
+* [Project Homepage](https://kweli-ssi.web.app/)   
 
--  Business Registration schemas
-
--  Regulatory Permits schemas
+## Open source code
+* [Kweli Wallet Manager](https://gitlab.com/vibranium-identity/kweliwallet) - personal identity wallet
