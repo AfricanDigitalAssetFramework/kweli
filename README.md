@@ -1,6 +1,8 @@
 # Kweli (Pan-African Decentralized Identity Framework) Documentation
 
-Kweli is a technical framework on how decentralized identity for Africans can work. It introduces the concept of a wallet and shows the value that can be gained from personal blockchain based wallets tied to a person's identity.
+Kweli is a technical framework on how decentralized identity for Africans can work. It introduces the concept of a wallet and shows the value that can be gained from personal blockchain based wallets tied to a person's identity.   
+
+The content is built on [Indy](https://github.com/hyperledger/indy-node#about-indy-node) code and optimized for Pan-African use-cases.
 
 ## Content
 
