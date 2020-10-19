@@ -9,5 +9,5 @@ The content is built on [Indy](https://github.com/hyperledger/indy-node#about-in
 * [White Paper](https://github.com/AfricanDigitalAssetFramework/kweli/blob/master/docs/Kweli%20-%20Pan-African%20Self-Sovereign%20Identity.pdf)
 * [Project Homepage](https://kweli-ssi.web.app/)   
 
-## Open source code
-* [Kweli Wallet Manager](https://gitlab.com/kweli) - personal identity wallet
+## Open-source code
+* [Kweli Wallet Source Code](https://gitlab.com/kweli) - personal identity wallet
