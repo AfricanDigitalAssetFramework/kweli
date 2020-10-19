@@ -2,7 +2,7 @@
 
 Kweli is a technical framework on how decentralized identity for Africans can work. It introduces the concept of a wallet and shows the value that can be gained from personal blockchain based wallets tied to a person's identity.   
 
-The content is built on [Indy](https://github.com/hyperledger/indy-node#about-indy-node) code and optimized for Pan-African use-cases.
+The content is built on [Hyperledger Indy](https://github.com/hyperledger/indy-node#about-indy-node) code and optimized for Pan-African use-cases.
 
 ## Content
 
@@ -10,4 +10,4 @@ The content is built on [Indy](https://github.com/hyperledger/indy-node#about-in
 * [Project Homepage](https://kweli-ssi.web.app/)   
 
 ## Open-source code
-* [Kweli Source Code](https://gitlab.com/kweli) - personal identity wallet
+* [Kweli Source Code](https://gitlab.com/kweli) - contains the identity wallet for entities, the Verifiable Credentials data model, and working code of the project.
