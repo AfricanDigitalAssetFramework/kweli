@@ -10,4 +10,4 @@ The content is built on [Indy](https://github.com/hyperledger/indy-node#about-in
 * [Project Homepage](https://kweli-ssi.web.app/)   
 
 ## Open-source code
-* [Kweli Wallet Source Code](https://gitlab.com/kweli) - personal identity wallet
+* [Kweli Source Code](https://gitlab.com/kweli) - personal identity wallet
